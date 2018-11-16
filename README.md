@@ -1,1 +1,1 @@
-#go-api-server
+# Boilerplate code for REST API in golang
